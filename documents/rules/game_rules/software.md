@@ -4,7 +4,7 @@
 
 
 ## Общее
-1. Запрещено Мягкое освещение и Яркость больше значения 100;
+1. Запрещены параметры Мягкое освещение и Яркость больше значения 100;
 2. Запрещены шейдеры, текстурпаки, модификации и сторонние программные обеспечения, дающие преимущества в игре;
 3. Запрещены функции в шейдерах, модификациях и сторонних программных обеспечениях, дающие преимущества в игре;
 3. Запрещено вычислять и распространять сид = бан
@@ -37,7 +37,8 @@
 <details>
 <summary>Разрешённые модификации</summary>
 
-- AdvancementInfo Reloaded, Bobby, Emotecraft, LambDynamicLights, Litematic, Logical Zoom, MCBrowser, Plasmo Voice, pv-addon-replaymod, ReplayMod, RP Renames, Server Resourcepack Checker, Shulker Box Tooltip, Xaero's Minimap, Xaero's World Map
+- Bobby, Emotecraft, Litematic, Logical Zoom, ReplayMod, RP Renames, Shulker Box Tooltip
+- Голосовой чат, динамическое освещение, индикатор здоровья, мини-карта
 - Аналоги разрешённых модификаций
 </details>
 
@@ -57,8 +58,9 @@
 <details>
 <summary>Запрещённые функции модификаций</summary>
 
-1. В Freecam запрещена функция NoClip;
-2. В Litematic запрещена функция Принтер;
+1. В мини-картах запрещена функци́я отображения пещер и сущностей;
+2. В Freecam запрещена функция NoClip;
+3. В Litematic запрещена функция Принтер;
 </details>
 
 
